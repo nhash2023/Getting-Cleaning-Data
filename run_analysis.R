@@ -1,4 +1,4 @@
-#.Download the file and put the file in the data folder and unzip file
+#Download the file and put the file in the data folder and unzip file
 if(!file.exists("./python scripts")){dir.create("./data")}
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(fileUrl,destfile="./data/Dataset.zip")
