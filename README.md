@@ -3,7 +3,7 @@
 This is a reposatory created for Coursera's week 4 project, "Getting and Cleaning Data." This includes the run_analysis, tidy_data, and the codebook for this assignment. 
 
 # Files:
-CodeBook.md describes the how to use the code, variables, the data, and any transformations that was performed to clean up the data.
+Codebook.md describes the how to use the code, variables, the data, and any transformations that was performed to clean up the data.
 
 run_analysis.R contains the code used to perform the analyses described in the 5 steps below and within the code. Here are the five steps:
 
