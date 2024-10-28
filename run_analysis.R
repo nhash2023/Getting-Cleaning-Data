@@ -76,7 +76,7 @@ names(Data)<-gsub("-freq()", "Frequency", names(Data), ignore.case = TRUE)
 names(Data)<-gsub("angle", "Angle", names(Data))
 names(Data)<-gsub("gravity", "Gravity", names(Data))
 
-names(Data)
+names(subject)
 
 #creates a second, independent tidy data set with the average of each variable for each activity and each subject
 library(plyr);
